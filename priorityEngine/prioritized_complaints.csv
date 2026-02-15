@@ -1,0 +1,6 @@
+complaint_id,complaint_text,category,image_severity,population_density,location,sentiment_score,overflow_probability,density_normalized,priority_score,priority_level
+C001,"Garbage overflowing near market area, urgent attention needed",Overflow,0.85,22000,Dwarka Sector 3,0.6,1.0,0.68,0.7709999999999999,HIGH
+C002,Missed pickup since 3 days,Missed pickup,0.45,15000,Rohini Sector 7,0.3,0.3,0.4,0.36500000000000005,LOW
+C003,Someone dumped construction waste illegally,Illegal dumping,0.65,8000,Vasant Vihar,0.3,0.1,0.12,0.32900000000000007,LOW
+C004,"Emergency! Bins overflowing everywhere, hazardous smell",Overflow,0.92,28000,Connaught Place,0.95,1.0,0.92,0.9450000000000001,HIGH
+C005,Pickup was delayed by one day,Missed pickup,0.35,12000,Karol Bagh,0.3,0.3,0.28,0.311,LOW
