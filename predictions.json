@@ -1,0 +1,362 @@
+[
+  {
+    "image": "image_000.jpg",
+    "garbage_probability": 0.480007750749588,
+    "severity_score": 0.38400620059967044,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_001.jpg",
+    "garbage_probability": 0.44010986375808714,
+    "severity_score": 0.35208789100646976,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_002.jpg",
+    "garbage_probability": 0.48759840130805965,
+    "severity_score": 0.39007872104644775,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_003.jpg",
+    "garbage_probability": 0.4563667087554931,
+    "severity_score": 0.36509336700439454,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_004.jpg",
+    "garbage_probability": 0.435102531671524,
+    "severity_score": 0.3480820253372192,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_005.jpg",
+    "garbage_probability": 0.49392075276374814,
+    "severity_score": 0.39513660221099856,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_006.jpg",
+    "garbage_probability": 0.4613221936225891,
+    "severity_score": 0.3690577548980713,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_007.jpg",
+    "garbage_probability": 0.44243631792068483,
+    "severity_score": 0.3539490543365479,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_008.jpg",
+    "garbage_probability": 0.4825140631198883,
+    "severity_score": 0.3860112504959107,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_009.jpg",
+    "garbage_probability": 0.45991759729385373,
+    "severity_score": 0.36793407783508303,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_010.jpg",
+    "garbage_probability": 0.467139538526535,
+    "severity_score": 0.37371163082122805,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_011.jpg",
+    "garbage_probability": 0.4433939146995544,
+    "severity_score": 0.35471513175964353,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_012.jpg",
+    "garbage_probability": 0.48912082242965693,
+    "severity_score": 0.3912966579437256,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_013.jpg",
+    "garbage_probability": 0.45999375319480895,
+    "severity_score": 0.36799500255584716,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_014.jpg",
+    "garbage_probability": 0.4437703585624695,
+    "severity_score": 0.3550162868499756,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_015.jpg",
+    "garbage_probability": 0.47071576929092407,
+    "severity_score": 0.3765726154327393,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_016.jpg",
+    "garbage_probability": 0.4942353270053863,
+    "severity_score": 0.39538826160430907,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_017.jpg",
+    "garbage_probability": 0.46541934633255,
+    "severity_score": 0.37233547706604003,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_018.jpg",
+    "garbage_probability": 0.43984058880805965,
+    "severity_score": 0.35187247104644775,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_019.jpg",
+    "garbage_probability": 0.4487100417613983,
+    "severity_score": 0.35896803340911865,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_020.jpg",
+    "garbage_probability": 0.4473912665843963,
+    "severity_score": 0.35791301326751707,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_021.jpg",
+    "garbage_probability": 0.44815908622741696,
+    "severity_score": 0.3585272689819336,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_022.jpg",
+    "garbage_probability": 0.4281866476535797,
+    "severity_score": 0.3425493181228638,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_023.jpg",
+    "garbage_probability": 0.4678806228637695,
+    "severity_score": 0.37430449829101564,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_024.jpg",
+    "garbage_probability": 0.4681314895153046,
+    "severity_score": 0.3745051916122437,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_025.jpg",
+    "garbage_probability": 0.43653966546058653,
+    "severity_score": 0.34923173236846927,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_026.jpg",
+    "garbage_probability": 0.4357208173274994,
+    "severity_score": 0.34857665386199954,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_027.jpg",
+    "garbage_probability": 0.46699826431274416,
+    "severity_score": 0.37359861145019535,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_028.jpg",
+    "garbage_probability": 0.4661515080928802,
+    "severity_score": 0.37292120647430416,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_029.jpg",
+    "garbage_probability": 0.4575441870689392,
+    "severity_score": 0.3660353496551514,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_000.jpg",
+    "garbage_probability": 0.480007750749588,
+    "severity_score": 0.38400620059967044,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_001.jpg",
+    "garbage_probability": 0.44010986375808714,
+    "severity_score": 0.35208789100646976,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_002.jpg",
+    "garbage_probability": 0.48759840130805965,
+    "severity_score": 0.39007872104644775,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_003.jpg",
+    "garbage_probability": 0.4563667087554931,
+    "severity_score": 0.36509336700439454,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_004.jpg",
+    "garbage_probability": 0.435102531671524,
+    "severity_score": 0.3480820253372192,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_005.jpg",
+    "garbage_probability": 0.49392075276374814,
+    "severity_score": 0.39513660221099856,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_006.jpg",
+    "garbage_probability": 0.4613221936225891,
+    "severity_score": 0.3690577548980713,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_007.jpg",
+    "garbage_probability": 0.44243631792068483,
+    "severity_score": 0.3539490543365479,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_008.jpg",
+    "garbage_probability": 0.4825140631198883,
+    "severity_score": 0.3860112504959107,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_009.jpg",
+    "garbage_probability": 0.45991759729385373,
+    "severity_score": 0.36793407783508303,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_010.jpg",
+    "garbage_probability": 0.467139538526535,
+    "severity_score": 0.37371163082122805,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_011.jpg",
+    "garbage_probability": 0.4433939146995544,
+    "severity_score": 0.35471513175964353,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_012.jpg",
+    "garbage_probability": 0.48912082242965693,
+    "severity_score": 0.3912966579437256,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_013.jpg",
+    "garbage_probability": 0.45999375319480895,
+    "severity_score": 0.36799500255584716,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_014.jpg",
+    "garbage_probability": 0.4437703585624695,
+    "severity_score": 0.3550162868499756,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_015.jpg",
+    "garbage_probability": 0.47071576929092407,
+    "severity_score": 0.3765726154327393,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_016.jpg",
+    "garbage_probability": 0.4942353270053863,
+    "severity_score": 0.39538826160430907,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_017.jpg",
+    "garbage_probability": 0.46541934633255,
+    "severity_score": 0.37233547706604003,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_018.jpg",
+    "garbage_probability": 0.43984058880805965,
+    "severity_score": 0.35187247104644775,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_019.jpg",
+    "garbage_probability": 0.4487100417613983,
+    "severity_score": 0.35896803340911865,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_020.jpg",
+    "garbage_probability": 0.4473912665843963,
+    "severity_score": 0.35791301326751707,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_021.jpg",
+    "garbage_probability": 0.44815908622741696,
+    "severity_score": 0.3585272689819336,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_022.jpg",
+    "garbage_probability": 0.4281866476535797,
+    "severity_score": 0.3425493181228638,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_023.jpg",
+    "garbage_probability": 0.4678806228637695,
+    "severity_score": 0.37430449829101564,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_024.jpg",
+    "garbage_probability": 0.4681314895153046,
+    "severity_score": 0.3745051916122437,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_025.jpg",
+    "garbage_probability": 0.43653966546058653,
+    "severity_score": 0.34923173236846927,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_026.jpg",
+    "garbage_probability": 0.4357208173274994,
+    "severity_score": 0.34857665386199954,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_027.jpg",
+    "garbage_probability": 0.46699826431274416,
+    "severity_score": 0.37359861145019535,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_028.jpg",
+    "garbage_probability": 0.4661515080928802,
+    "severity_score": 0.37292120647430416,
+    "classification": "Not Garbage"
+  },
+  {
+    "image": "image_029.jpg",
+    "garbage_probability": 0.4575441870689392,
+    "severity_score": 0.3660353496551514,
+    "classification": "Not Garbage"
+  }
+]

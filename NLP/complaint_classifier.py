@@ -319,6 +319,16 @@ Classes the model can predict:
 - Illegal dumping
 """)
 
+import pickle
+
+with open("complaint_model.pkl", "rb") as f:
+    model = pickle.load(f)
+
+# Now re-save cleanly
+with open("complaint_model_new.pkl", "wb") as f:
+    pickle.dump(model, f)
+
+
 print("\n" + "="*70)
 print("DONE! 🎉")
 print("="*70)

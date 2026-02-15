@@ -17,6 +17,8 @@ from PIL import Image
 import pickle
 import json
 from pathlib import Path
+# from garbage_model_class import GarbageClassifier
+
 
 print("Checking dependencies...")
 
@@ -227,6 +229,7 @@ class GarbageClassifier:
             pickle.dump(self, f)
         print(f"✓ Saved classifier to: {filepath}")
 
+
 # ============================================================================
 # CREATE DEMO IMAGES
 # ============================================================================
@@ -387,7 +390,7 @@ def main():
     save_results(results, CONFIG['output_file'])
     
     # Save classifier
-    classifier.save('garbage_classifier.pkl')
+    classifier.save('garbage_classifer_model.h5')
     
     # Usage instructions
     print(f"\n{'='*70}")

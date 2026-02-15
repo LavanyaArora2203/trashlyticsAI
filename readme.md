@@ -10,3 +10,5 @@ Instead of waiting for complaints, your system predicts risk in advance.
 
 
 “We aggregated bin-level data into zone-level daily averages and trained ARIMA models per zone to forecast future fill levels. We calculate overflow probability based on predicted values exceeding threshold and use confidence intervals to represent uncertainty.”
+
+py -3.14.0 --version # Switch to Python 3.11.6
