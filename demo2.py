@@ -1,6 +1,6 @@
 import streamlit as st
 import pickle
-# import joblib   # if you used joblib instead of pickle
+
 
 import pandas as pd
 import numpy as np
@@ -14,7 +14,7 @@ from PIL import Image
 # PAGE CONFIG
 # --------------------------------------------------
 st.set_page_config(
-    page_title="Urban Waste Intelligence Engine",
+    page_title="trashlyticsAI",
     page_icon="🌆",
     layout="wide"
 )
@@ -63,7 +63,7 @@ def forecast_zone():
 # --------------------------------------------------
 # SIDEBAR
 # --------------------------------------------------
-st.sidebar.title("🌆 Urban Waste Intelligence")
+st.sidebar.title("🌆trashlyticsAI - Urban Waste Intelligence Engine")
 page = st.sidebar.radio("Navigation", ["Citizen Page", "Admin Dashboard"])
 st.sidebar.markdown("---")
 st.sidebar.caption("AI-Powered Predictive Governance Platform")
